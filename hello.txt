@@ -17,5 +17,7 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
+<<<<<<< HEAD
 Hello Git! master
-Hello Git!
+Hello Git! hot fix
+>>>>>>> hot-fix
